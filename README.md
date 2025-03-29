@@ -56,14 +56,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Timmnn">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Timmnn&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/Timmnn/Timmnn/output/snake.svg" alt="Snake animation" />
 
 ###
