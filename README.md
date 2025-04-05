@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Rust<br>🎯 Goals: I'm constantly trying to improve as a developer and learn new things.<br>🎲 Fun fact: My first project was a traffic light build with 3 leds and a raspberry pi :)</p>
+<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Rust<br>🎯 Goals: I'm constantly trying to improve as a developer and learn new things.<br>🎲 Fun fact: My first project was a traffic light built with 3 LEDs and a Raspberry Pi :)</p>
 
 ###
 
